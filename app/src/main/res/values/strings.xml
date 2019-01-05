@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ContentProviderDemo</string>
+    <string name="name">Phạm Thế Hùng</string>
+    <string name="phone">0974181656</string>
 </resources>
